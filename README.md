@@ -4,7 +4,9 @@
 
 - 🌱 I’m currently learning Javascript & React JS
 
-- 📫 If you would like to have a coffee chat, feel free to please contact me: [LinkedIn]("https://www.linkedin.com/in/jessica-de-andrade-firmino/)
+- 📫 If you would like to have a coffee chat, feel free to please contact me: <a href="[https://www.linkedin.com/in/ericagrundy](https://www.linkedin.com/in/jessica-de-andrade-firmino/)](https://www.linkedin.com/in/jessica-de-andrade-firmino/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+- 
 </br>
 
  <div>
