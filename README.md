@@ -1,6 +1,6 @@
 ## Hi, I'm Jessica Andrade! 
 
-- 🔭 I’m Fullstack Web Development;
+- 🔭 I’m Full-stack Web Developer ;
 
 - 🌱 I’m currently learning Javascript & React JS;
 
@@ -26,7 +26,5 @@
   
 </div>
   
-</br>
- 
-![Snake animation](https://github.com/jessicaandradef/jessicaandradef/blob/output/github-contribution-grid-snake.svg) 
+
 </div>
